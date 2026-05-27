@@ -1,0 +1,301 @@
+﻿MaSanPham,TenSanPham,DVT,GiaNhap,GiaBan,MaDanhMuc
+SP001,Cháo Gấu Đỏ 200ml,Kg,69000,87000,DM1
+SP002,Coca Cola Mới,Gói,97000,115000,DM2
+SP003,Bia Heineken 500g,Gói,87000,107000,DM3
+SP004,Sữa chua Vinamilk 200ml,Cái,56000,63000,DM4
+SP005,Bánh Oreo Mới,Gói,4000,9000,DM5
+SP006,Kem Merino Thùng,Hộp,91000,108000,DM6
+SP007,Rau muống sạch 1kg,Hộp,86000,95000,DM7
+SP008,Xôi mặn 1kg,Kg,98000,105000,DM8
+SP009,Sản phẩm tiện ích 1kg,Lon,58000,78000,DM9
+SP010,Sữa rửa mặt Oxy Cao cấp,Gói,38000,49000,DM10
+SP011,Bàn chải PS Mới,Hộp,25000,43000,DM11
+SP012,Nước rửa bát Sunlight 1kg,Kg,74000,94000,DM12
+SP013,Pin AA Mới,Vỉ,30000,33000,DM13
+SP014,Băng dính Thùng,Túi,82000,99000,DM14
+SP015,Bánh gạo trẻ em 200ml,Lon,44000,57000,DM15
+SP016,Dầu gió Trường Sơn 1kg,Hộp,32000,50000,DM16
+SP017,Pate mèo Me-O Thùng,Hộp,4000,24000,DM17
+SP018,Tất nam Combo 2,Kg,90000,100000,DM18
+SP019,Gạo lứt đỏ Cao cấp,Túi,20000,39000,DM19
+SP020,Ống hút nhựa Combo 2,Vỉ,92000,103000,DM20
+SP021,Coca Cola 200ml,Hộp,31000,49000,DM2
+SP022,Gạo thơm lài Mới,Cái,33000,37000,DM19
+SP023,Sổ tay A5 1kg,Cái,12000,28000,DM14
+SP024,Trứng gà vỉ 10 Thùng,Gói,48000,53000,DM7
+SP025,Nước súc miệng 200ml,Hộp,3000,12000,DM11
+SP026,Sản phẩm tiện ích Thùng,Lon,12000,28000,DM9
+SP027,Nước súc miệng Combo 2,Cái,93000,107000,DM11
+SP028,Dầu gội Clear 500g,Gói,74000,93000,DM10
+SP029,Gạo thơm lài 200ml,Vỉ,98000,101000,DM19
+SP030,Thức ăn mèo Whiskas Thùng,Túi,74000,81000,DM17
+SP031,Coca Cola 500g,Túi,74000,88000,DM2
+SP032,Hạt chó Pedigree Combo 2,Gói,20000,28000,DM17
+SP033,Nước rửa bát Sunlight 500g,Cái,42000,49000,DM12
+SP034,Phở Cung Đình 500g,Gói,23000,34000,DM1
+SP035,Sandwich Thùng,Kg,96000,98000,DM8
+SP036,Nước tẩy Vim Combo 2,Cái,6000,8000,DM12
+SP037,Khăn giấy Paseo Thùng,Cái,40000,47000,DM13
+SP038,Gạo lứt đỏ 500g,Túi,72000,80000,DM19
+SP039,Váng sữa Monte 1kg,Gói,21000,34000,DM15
+SP040,Cá viên chiên 200ml,Cái,52000,66000,DM6
+SP041,Sting dâu Mới,Cái,50000,55000,DM2
+SP042,Xôi mặn Mới,Lon,33000,41000,DM8
+SP043,Sữa Milo Combo 2,Hộp,41000,61000,DM4
+SP044,Bánh gạo trẻ em 200ml,Kg,96000,116000,DM15
+SP045,Gạo thơm lài 500g,Túi,11000,29000,DM19
+SP046,Thuốc Panadol Mới,Cái,78000,81000,DM16
+SP047,Phở Cung Đình Combo 2,Cái,48000,56000,DM1
+SP048,Ức gà Mới,Gói,31000,34000,DM7
+SP049,Sữa tươi TH True Milk Cao cấp,Gói,69000,77000,DM4
+SP050,Pin AA 1kg,Túi,19000,35000,DM13
+SP051,Há cảo tôm 200ml,Vỉ,59000,64000,DM6
+SP052,Bàn chải PS Thùng,Túi,77000,92000,DM11
+SP053,Sản phẩm tiện ích Mới,Chai,94000,100000,DM9
+SP054,Ức gà Combo 2,Chai,10000,29000,DM7
+SP055,Gạo thơm lài Mới,Túi,23000,34000,DM19
+SP056,Bút bi Thiên Long Thùng,Hộp,61000,79000,DM14
+SP057,Váng sữa Monte 500g,Hộp,43000,63000,DM15
+SP058,Bia Heineken Mới,Túi,56000,73000,DM3
+SP059,Sổ tay A5 500g,Cái,29000,43000,DM14
+SP060,Khăn giấy Paseo 500g,Chai,44000,46000,DM13
+SP061,Phở Cung Đình 1kg,Túi,42000,54000,DM1
+SP062,Khăn giấy Paseo Combo 2,Kg,39000,41000,DM13
+SP063,Aquafina 200ml,Cái,64000,79000,DM2
+SP064,Khẩu trang y tế Cao cấp,Lon,36000,49000,DM13
+SP065,Ly giấy Thùng,Lon,85000,95000,DM20
+SP066,Pin AA Combo 2,Kg,10000,28000,DM13
+SP067,Gạo thơm lài Mới,Hộp,77000,82000,DM19
+SP068,Băng dính Cao cấp,Chai,43000,59000,DM14
+SP069,Há cảo tôm 200ml,Hộp,56000,73000,DM6
+SP070,Coca Cola Thùng,Hộp,30000,47000,DM2
+SP071,Gạo thơm lài 200ml,Lon,68000,75000,DM19
+SP072,Sổ tay A5 Thùng,Chai,51000,66000,DM14
+SP073,Ức gà Cao cấp,Lon,17000,23000,DM7
+SP074,Mì Hảo Hảo Combo 2,Kg,57000,76000,DM1
+SP075,Nước tẩy Vim Combo 2,Kg,10000,18000,DM12
+SP076,Há cảo tôm Thùng,Chai,82000,84000,DM6
+SP077,Sữa Milo Combo 2,Vỉ,13000,33000,DM4
+SP078,Khẩu trang y tế 1kg,Chai,49000,64000,DM13
+SP079,Phô mai Combo 2,Lon,12000,16000,DM4
+SP080,Ly giấy 200ml,Hộp,74000,90000,DM20
+SP081,Sữa rửa mặt Oxy Mới,Cái,66000,80000,DM10
+SP082,Dầu gió Trường Sơn 200ml,Cái,92000,103000,DM16
+SP083,Trứng gà vỉ 10 Mới,Chai,83000,93000,DM7
+SP084,Thuốc Panadol Thùng,Cái,65000,69000,DM16
+SP085,Kem Merino Thùng,Túi,13000,22000,DM6
+SP086,Sổ tay A5 500g,Túi,27000,37000,DM14
+SP087,Kem đánh răng Colgate Mới,Kg,67000,86000,DM11
+SP088,Phở Cung Đình Cao cấp,Chai,89000,100000,DM1
+SP089,Kem đánh răng Colgate 1kg,Kg,75000,93000,DM11
+SP090,Bút bi Thiên Long Combo 2,Cái,89000,94000,DM14
+SP091,Sữa Milo 500g,Cái,74000,86000,DM4
+SP092,Áo thun trắng 500g,Vỉ,60000,73000,DM18
+SP093,Khăn giấy Paseo Combo 2,Hộp,62000,72000,DM13
+SP094,Ức gà 1kg,Túi,90000,94000,DM7
+SP095,Sản phẩm tiện ích Combo 2,Lon,50000,54000,DM9
+SP096,Kem Merino Cao cấp,Gói,99000,109000,DM6
+SP097,Trà xanh không độ 500g,Cái,35000,45000,DM2
+SP098,Sữa bột Ensure 500g,Hộp,85000,90000,DM15
+SP099,Sổ tay A5 200ml,Vỉ,29000,33000,DM14
+SP100,Khẩu trang y tế 200ml,Chai,54000,70000,DM13
+SP101,Gạo thơm lài Combo 2,Gói,15000,26000,DM19
+SP102,Trà xanh không độ Combo 2,Gói,43000,48000,DM2
+SP103,Bia Saigon Special Cao cấp,Chai,98000,113000,DM3
+SP104,Trứng gà vỉ 10 200ml,Gói,49000,58000,DM7
+SP105,Phở Cung Đình 200ml,Gói,42000,45000,DM1
+SP106,Coca Cola Cao cấp,Kg,62000,68000,DM2
+SP107,Mì Ly Modern Combo 2,Hộp,43000,59000,DM1
+SP108,Đũa dùng 1 lần 200ml,Cái,58000,64000,DM20
+SP109,Tất nam Combo 2,Lon,7000,26000,DM18
+SP110,Sữa chua Vinamilk Mới,Lon,11000,27000,DM4
+SP111,Mì Hảo Hảo 200ml,Chai,31000,37000,DM1
+SP112,Sản phẩm tiện ích Mới,Gói,67000,84000,DM9
+SP113,Sữa chua Vinamilk 200ml,Lon,82000,90000,DM4
+SP114,Nước rửa bát Sunlight Thùng,Cái,19000,25000,DM12
+SP115,Hạt chó Pedigree Mới,Kg,88000,105000,DM17
+SP116,Bàn chải PS Combo 2,Gói,19000,24000,DM11
+SP117,Ly giấy 200ml,Túi,26000,33000,DM20
+SP118,Khăn giấy Paseo 500g,Vỉ,5000,25000,DM13
+SP119,Cháo Gấu Đỏ Mới,Chai,81000,88000,DM1
+SP120,Thịt heo nạc Cao cấp,Gói,94000,113000,DM7
+SP121,Hạt chó Pedigree 500g,Hộp,7000,19000,DM17
+SP122,Bột giặt Omo Cao cấp,Kg,84000,94000,DM12
+SP123,Sữa tươi TH True Milk Mới,Chai,90000,110000,DM4
+SP124,Sản phẩm tiện ích 200ml,Kg,71000,73000,DM9
+SP125,Nước rửa tay 200ml,Lon,37000,44000,DM16
+SP126,Sữa tắm Lifebuoy 1kg,Lon,66000,82000,DM10
+SP127,Khăn giấy Paseo Combo 2,Cái,84000,103000,DM13
+SP128,Nước rửa tay 200ml,Lon,51000,71000,DM16
+SP129,Bột giặt Omo 500g,Hộp,66000,70000,DM12
+SP130,Thức ăn mèo Whiskas 1kg,Lon,74000,77000,DM17
+SP131,Bút bi Thiên Long Mới,Hộp,37000,44000,DM14
+SP132,Thuốc Panadol Cao cấp,Cái,67000,82000,DM16
+SP133,Bút bi Thiên Long 500g,Vỉ,84000,95000,DM14
+SP134,Cháo Gấu Đỏ 200ml,Vỉ,21000,38000,DM1
+SP135,Bút bi Thiên Long Mới,Kg,95000,102000,DM14
+SP136,Bánh Chocopie Cao cấp,Chai,34000,39000,DM5
+SP137,Gạo Nhật 200ml,Chai,33000,49000,DM19
+SP138,Gạo Nhật 200ml,Túi,82000,100000,DM19
+SP139,Bia Tiger Mới,Cái,97000,112000,DM3
+SP140,Khẩu trang y tế Mới,Gói,29000,33000,DM13
+SP141,Ức gà 200ml,Hộp,93000,97000,DM7
+SP142,Sữa Milo 1kg,Hộp,50000,58000,DM4
+SP143,Áo mưa tiện lợi 200ml,Cái,37000,43000,DM18
+SP144,Gạo thơm lài Thùng,Cái,36000,41000,DM19
+SP145,Dầu gió Trường Sơn Cao cấp,Chai,31000,44000,DM16
+SP146,Ức gà Mới,Gói,27000,36000,DM7
+SP147,Strongbow Apple Thùng,Gói,12000,24000,DM3
+SP148,Dầu gió Trường Sơn 200ml,Gói,73000,77000,DM16
+SP149,Thịt heo nạc Thùng,Túi,71000,73000,DM7
+SP150,Bia Heineken Mới,Vỉ,15000,31000,DM3
+SP151,Khăn giấy Paseo Thùng,Hộp,28000,40000,DM13
+SP152,Sản phẩm tiện ích 1kg,Kg,10000,23000,DM9
+SP153,Nước tẩy Vim Cao cấp,Cái,10000,25000,DM12
+SP154,Sữa tươi TH True Milk 1kg,Gói,95000,105000,DM4
+SP155,Bột giặt Omo Combo 2,Chai,10000,15000,DM12
+SP156,Pepsi 200ml,Chai,52000,55000,DM2
+SP157,Gạo Nhật 200ml,Túi,88000,98000,DM19
+SP158,Ống hút nhựa Mới,Vỉ,72000,88000,DM20
+SP159,Sữa tươi TH True Milk 500g,Gói,56000,65000,DM4
+SP160,Ống hút nhựa Cao cấp,Túi,94000,106000,DM20
+SP161,Dầu gội Clear Mới,Lon,9000,11000,DM10
+SP162,Kem đánh răng Colgate Thùng,Vỉ,60000,75000,DM11
+SP163,Khẩu trang y tế Thùng,Chai,60000,80000,DM13
+SP164,Sản phẩm tiện ích 500g,Cái,88000,95000,DM9
+SP165,Sổ tay A5 Thùng,Gói,97000,108000,DM14
+SP166,Bia Heineken 500g,Hộp,43000,54000,DM3
+SP167,Sản phẩm tiện ích 500g,Gói,24000,33000,DM9
+SP168,Băng dính 1kg,Kg,66000,72000,DM14
+SP169,Nước tẩy Vim 200ml,Gói,56000,59000,DM12
+SP170,Hạt chó Pedigree 1kg,Chai,71000,77000,DM17
+SP171,Sữa bột Ensure Combo 2,Cái,51000,56000,DM15
+SP172,Kem đánh răng Colgate 1kg,Vỉ,59000,67000,DM11
+SP173,Dầu gội Clear Thùng,Cái,38000,55000,DM10
+SP174,Kem Merino 1kg,Kg,25000,42000,DM6
+SP175,Băng dính Thùng,Cái,34000,42000,DM14
+SP176,Nước tẩy Vim Thùng,Gói,89000,104000,DM12
+SP177,Áo thun trắng Combo 2,Gói,56000,68000,DM18
+SP178,Mì Omachi Combo 2,Túi,49000,62000,DM1
+SP179,Nước súc miệng Cao cấp,Gói,7000,17000,DM11
+SP180,Pate mèo Me-O 200ml,Kg,72000,84000,DM17
+SP181,Nước rửa bát Sunlight Combo 2,Cái,49000,58000,DM12
+SP182,Cá viên chiên 200ml,Lon,73000,79000,DM6
+SP183,Xôi mặn 1kg,Vỉ,71000,73000,DM8
+SP184,Dầu gió Trường Sơn 200ml,Cái,24000,42000,DM16
+SP185,Xôi mặn 1kg,Cái,60000,66000,DM8
+SP186,Dầu gió Trường Sơn 500g,Chai,50000,67000,DM16
+SP187,Bút bi Thiên Long Mới,Cái,83000,97000,DM14
+SP188,Mì Omachi Thùng,Túi,76000,83000,DM1
+SP189,Đũa dùng 1 lần 200ml,Kg,99000,108000,DM20
+SP190,Gạo Nhật Cao cấp,Hộp,71000,83000,DM19
+SP191,Ly giấy Mới,Gói,38000,53000,DM20
+SP192,Bánh Chocopie Combo 2,Chai,43000,55000,DM5
+SP193,Ly giấy Cao cấp,Lon,91000,95000,DM20
+SP194,Hạt chó Pedigree 200ml,Chai,29000,31000,DM17
+SP195,Áo mưa tiện lợi 200ml,Hộp,76000,96000,DM18
+SP196,Sữa tắm Lifebuoy Cao cấp,Kg,34000,43000,DM10
+SP197,Váng sữa Monte Mới,Kg,82000,91000,DM15
+SP198,Rau muống sạch 1kg,Kg,46000,65000,DM7
+SP199,Pepsi Combo 2,Cái,55000,75000,DM2
+SP200,Váng sữa Monte Combo 2,Lon,59000,63000,DM15
+SP201,Khẩu trang y tế Thùng,Kg,35000,51000,DM13
+SP202,Sổ tay A5 Combo 2,Cái,33000,36000,DM14
+SP203,Khẩu trang y tế Combo 2,Túi,58000,76000,DM13
+SP204,Gạo ST25 Thùng,Chai,74000,90000,DM19
+SP205,Bàn chải PS 500g,Lon,24000,38000,DM11
+SP206,Pepsi 500g,Cái,91000,94000,DM2
+SP207,Coca Cola Cao cấp,Kg,83000,103000,DM2
+SP208,Nước rửa bát Sunlight Combo 2,Hộp,52000,62000,DM12
+SP209,Gạo lứt đỏ Mới,Hộp,97000,111000,DM19
+SP210,Sản phẩm tiện ích Mới,Kg,69000,82000,DM9
+SP211,Sting dâu Cao cấp,Hộp,67000,75000,DM2
+SP212,Sổ tay A5 200ml,Kg,60000,72000,DM14
+SP213,Ly giấy Combo 2,Chai,40000,43000,DM20
+SP214,Thuốc Panadol 200ml,Vỉ,36000,47000,DM16
+SP215,Pin AA Cao cấp,Gói,29000,36000,DM13
+SP216,Nước tẩy Vim 1kg,Lon,87000,92000,DM12
+SP217,Pate mèo Me-O 200ml,Vỉ,99000,106000,DM17
+SP218,Mì Hảo Hảo 200ml,Gói,44000,51000,DM1
+SP219,Phở Cung Đình Mới,Vỉ,35000,44000,DM1
+SP220,Pate mèo Me-O 500g,Túi,76000,92000,DM17
+SP221,Áo thun trắng 200ml,Lon,54000,56000,DM18
+SP222,Sting dâu 500g,Lon,23000,36000,DM2
+SP223,Sữa bột Ensure 500g,Gói,78000,83000,DM15
+SP224,Ức gà Mới,Hộp,94000,112000,DM7
+SP225,Băng dính 1kg,Lon,25000,44000,DM14
+SP226,Gạo Nhật Cao cấp,Chai,52000,68000,DM19
+SP227,Nước súc miệng Combo 2,Túi,82000,100000,DM11
+SP228,Gạo ST25 Combo 2,Túi,82000,93000,DM19
+SP229,Nước rửa tay Combo 2,Kg,76000,93000,DM16
+SP230,Nước rửa tay Thùng,Túi,63000,74000,DM16
+SP231,Nước tẩy Vim Cao cấp,Gói,45000,54000,DM12
+SP232,Trứng gà vỉ 10 Combo 2,Gói,34000,51000,DM7
+SP233,Bia Saigon Special 1kg,Lon,82000,86000,DM3
+SP234,Ức gà 200ml,Gói,73000,90000,DM7
+SP235,Bánh Chocopie 200ml,Cái,63000,73000,DM5
+SP236,Váng sữa Monte 500g,Vỉ,62000,74000,DM15
+SP237,Mì Omachi 1kg,Vỉ,75000,80000,DM1
+SP238,Sting dâu Mới,Hộp,44000,57000,DM2
+SP239,Ống hút nhựa Combo 2,Gói,67000,74000,DM20
+SP240,Nước rửa tay 500g,Vỉ,41000,60000,DM16
+SP241,Bánh gạo trẻ em 1kg,Chai,32000,41000,DM15
+SP242,Gạo thơm lài 1kg,Gói,66000,84000,DM19
+SP243,Cháo Gấu Đỏ 200ml,Túi,58000,61000,DM1
+SP244,Ức gà Mới,Lon,23000,36000,DM7
+SP245,Bàn chải PS 1kg,Lon,9000,24000,DM11
+SP246,Dầu gió Trường Sơn Combo 2,Túi,26000,35000,DM16
+SP247,Băng dính Mới,Lon,91000,106000,DM14
+SP248,Thức ăn mèo Whiskas Thùng,Chai,38000,58000,DM17
+SP249,Gạo Nhật Combo 2,Vỉ,62000,66000,DM19
+SP250,Kem đánh răng Colgate Mới,Chai,96000,108000,DM11
+SP251,Kẹo Alpenliebe Combo 2,Lon,65000,79000,DM5
+SP252,Khăn giấy Paseo Mới,Lon,26000,34000,DM13
+SP253,Tất nam 500g,Vỉ,84000,91000,DM18
+SP254,Áo mưa tiện lợi 200ml,Cái,43000,63000,DM18
+SP255,Trà xanh không độ 500g,Túi,67000,79000,DM2
+SP256,Sổ tay A5 200ml,Chai,92000,112000,DM14
+SP257,Sữa rửa mặt Oxy Cao cấp,Hộp,76000,78000,DM10
+SP258,Áo mưa tiện lợi Thùng,Kg,18000,24000,DM18
+SP259,Strongbow Apple Cao cấp,Cái,84000,94000,DM3
+SP260,Đũa dùng 1 lần 200ml,Lon,42000,46000,DM20
+SP261,Tất nam Mới,Vỉ,99000,119000,DM18
+SP262,Sữa rửa mặt Oxy Combo 2,Kg,24000,33000,DM10
+SP263,Sandwich Thùng,Kg,29000,41000,DM8
+SP264,Cháo Gấu Đỏ Mới,Gói,54000,67000,DM1
+SP265,Thịt heo nạc 500g,Hộp,65000,68000,DM7
+SP266,Phô mai Mới,Gói,89000,109000,DM4
+SP267,Trứng gà vỉ 10 Mới,Túi,24000,43000,DM7
+SP268,Phở Cung Đình Thùng,Kg,93000,104000,DM1
+SP269,Rau muống sạch Thùng,Gói,65000,73000,DM7
+SP270,Cơm nắm Onigiri Combo 2,Lon,79000,85000,DM8
+SP271,Sản phẩm tiện ích 1kg,Kg,56000,74000,DM9
+SP272,Bánh gạo trẻ em 1kg,Vỉ,4000,24000,DM15
+SP273,Trứng gà vỉ 10 500g,Túi,39000,54000,DM7
+SP274,Sữa rửa mặt Oxy Thùng,Túi,10000,14000,DM10
+SP275,Sản phẩm tiện ích Mới,Cái,8000,22000,DM9
+SP276,Pin AA Combo 2,Túi,53000,71000,DM13
+SP277,Ống hút nhựa 200ml,Kg,52000,71000,DM20
+SP278,Sổ tay A5 Thùng,Túi,87000,106000,DM14
+SP279,Bánh bao xá xíu 1kg,Túi,73000,79000,DM8
+SP280,Bia Tiger Thùng,Cái,35000,43000,DM3
+SP281,Gạo Nhật Cao cấp,Cái,85000,99000,DM19
+SP282,Sandwich 200ml,Vỉ,76000,79000,DM8
+SP283,Khẩu trang y tế 1kg,Cái,99000,112000,DM13
+SP284,Gạo thơm lài Thùng,Lon,99000,110000,DM19
+SP285,Cá viên chiên Mới,Hộp,83000,97000,DM6
+SP286,Cá viên chiên 500g,Gói,15000,35000,DM6
+SP287,Pin AA Mới,Kg,27000,30000,DM13
+SP288,Sản phẩm tiện ích Thùng,Cái,95000,100000,DM9
+SP289,Váng sữa Monte Combo 2,Kg,12000,14000,DM15
+SP290,Bánh Oreo Mới,Kg,42000,46000,DM5
+SP291,Nước tẩy Vim 1kg,Kg,87000,95000,DM12
+SP292,Nước tẩy Vim Cao cấp,Chai,23000,34000,DM12
+SP293,Bánh Chocopie Cao cấp,Vỉ,45000,60000,DM5
+SP294,Sản phẩm tiện ích Cao cấp,Túi,17000,30000,DM9
+SP295,Xôi mặn 1kg,Cái,30000,35000,DM8
+SP296,Sản phẩm tiện ích 1kg,Gói,95000,100000,DM9
+SP297,Há cảo tôm 1kg,Lon,60000,66000,DM6
+SP298,Sandwich 500g,Gói,43000,59000,DM8
+SP299,Trứng gà vỉ 10 Thùng,Vỉ,25000,28000,DM7
+SP300,Khăn giấy Paseo 1kg,Cái,10000,12000,DM13
